@@ -1,8 +1,8 @@
 .slider
 {
   overflow: hidden;
-  border-width: 6px;
-  border-style: solid;
+/*   border-width: 6px; */
+  border-style: none;
   border-color: rgb(237, 233, 233);
 }
 
